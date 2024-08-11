@@ -1,6 +1,6 @@
 import pytest
-from src.library_management.library import Library
-from src.library_management.exceptions import BookNotFoundException, BookAlreadyBorrowedException
+from src.library import Library
+from src.exceptions import BookNotFoundException, BookAlreadyBorrowedException
 
 def test_add_book():
     library = Library()
