@@ -1,0 +1,128 @@
+Welcome to The Library Management System
+
+
+╔═══════════════════════════════╗
+║   Library Management System   ║
+╠═══════════════════════════════╣
+║ 1. Add Book                   ║
+║ 2. Borrow Book                ║
+║ 3. Return Book                ║
+║ 4. View Available Books       ║
+║ 5. Exit                       ║
+╚═══════════════════════════════╝
+Enter your choice: 1
+Enter ISBN: 1232343455678
+Enter Title: Atomic habits
+Enter Author: James clear
+Enter Publication Year: 2018
+Book 'Atomic habits' added successfully.
+
+╔═══════════════════════════════╗       
+║   Library Management System   ║       
+╠═══════════════════════════════╣       
+║ 1. Add Book                   ║       
+║ 2. Borrow Book                ║       
+║ 3. Return Book                ║       
+║ 4. View Available Books       ║       
+║ 5. Exit                       ║       
+╚═══════════════════════════════╝       
+Enter your choice: 1
+Enter ISBN: 2342342342345
+Enter Title: Clean Code    
+Enter Author: Robert C. Martin
+Enter Publication Year: 2008
+Book 'Clean Code' added successfully.
+
+╔═══════════════════════════════╗
+║   Library Management System   ║
+╠═══════════════════════════════╣
+║ 1. Add Book                   ║
+║ 2. Borrow Book                ║
+║ 3. Return Book                ║
+║ 4. View Available Books       ║
+║ 5. Exit                       ║
+╚═══════════════════════════════╝
+Enter your choice: 4
+
+Available Books:
+╔═══════════════╦═══════════════╦══════════════════╦══════╗
+║ ISBN          ║ Title         ║ Author           ║ Year ║
+╠═══════════════╬═══════════════╬══════════════════╬══════╣
+║ 1232343455678 ║ Atomic habits ║ James clear      ║ 2018 ║
+║ 2342342342345 ║ Clean Code    ║ Robert C. Martin ║ 2008 ║
+╚═══════════════╩═══════════════╩══════════════════╩══════╝
+
+╔═══════════════════════════════╗
+║   Library Management System   ║
+╠═══════════════════════════════╣
+║ 1. Add Book                   ║
+║ 2. Borrow Book                ║
+║ 3. Return Book                ║
+║ 4. View Available Books       ║
+║ 5. Exit                       ║
+╚═══════════════════════════════╝
+Enter your choice: 2
+Enter ISBN of the book to borrow: 2342342342345
+Book borrowed successfully.
+
+╔═══════════════════════════════╗
+║   Library Management System   ║
+╠═══════════════════════════════╣
+║ 1. Add Book                   ║
+║ 2. Borrow Book                ║
+║ 3. Return Book                ║
+║ 4. View Available Books       ║
+║ 5. Exit                       ║
+╚═══════════════════════════════╝
+Enter your choice: 4
+
+Available Books:
+╔═══════════════╦═══════════════╦═════════════╦══════╗
+║ ISBN          ║ Title         ║ Author      ║ Year ║
+╠═══════════════╬═══════════════╬═════════════╬══════╣
+║ 1232343455678 ║ Atomic habits ║ James clear ║ 2018 ║
+╚═══════════════╩═══════════════╩═════════════╩══════╝
+
+╔═══════════════════════════════╗
+║   Library Management System   ║
+╠═══════════════════════════════╣
+║ 1. Add Book                   ║
+║ 2. Borrow Book                ║
+║ 3. Return Book                ║
+║ 4. View Available Books       ║
+║ 5. Exit                       ║
+╚═══════════════════════════════╝
+Enter your choice: 3
+Enter ISBN of the book to return: 2342342342345
+Book returned successfully.
+
+╔═══════════════════════════════╗
+║   Library Management System   ║
+╠═══════════════════════════════╣
+║ 1. Add Book                   ║
+║ 2. Borrow Book                ║
+║ 3. Return Book                ║
+║ 4. View Available Books       ║
+║ 5. Exit                       ║
+╚═══════════════════════════════╝
+Enter your choice: 4
+
+Available Books:
+╔═══════════════╦═══════════════╦══════════════════╦══════╗
+║ ISBN          ║ Title         ║ Author           ║ Year ║
+╠═══════════════╬═══════════════╬══════════════════╬══════╣
+║ 1232343455678 ║ Atomic habits ║ James clear      ║ 2018 ║
+║ 2342342342345 ║ Clean Code    ║ Robert C. Martin ║ 2008 ║
+╚═══════════════╩═══════════════╩══════════════════╩══════╝
+
+╔═══════════════════════════════╗
+║   Library Management System   ║
+╠═══════════════════════════════╣
+║ 1. Add Book                   ║
+║ 2. Borrow Book                ║
+║ 3. Return Book                ║
+║ 4. View Available Books       ║
+║ 5. Exit                       ║
+╚═══════════════════════════════╝
+Enter your choice: 5
+Exiting the system. Goodbye!
